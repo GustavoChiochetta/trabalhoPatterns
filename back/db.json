@@ -1,0 +1,10 @@
+{
+  "users": [
+    {
+      "name": "Gustavo",
+      "lastName": "Prior Chiochetta",
+      "email": "email.aleatorio@gmail.com",
+      "id": "1"
+    }
+  ]
+}
